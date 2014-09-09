@@ -39,7 +39,7 @@ exports.template = function( grunt, init, done ) {
 		props.devDependencies = {
 			'grunt': '~0.4.1',
 			'matchdep': '~0.1.2',
-			'traverse': '~0.0.6',
+			'traverse': '~0.6.6',
 			'charm': '~0.2.0',
 			'deep-is': '~0.1.2',
 			'sigmund': '~1.0.0',
